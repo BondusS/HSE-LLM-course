@@ -1,7 +1,7 @@
 > Обучал модель на ноутбуке с **MPS M4**, поэтому в коде ставил соответствующие настройки
 
-* Код -
-* Полный лог обучения - 
+* Код - https://github.com/BondusS/HSE-LLM-course/blob/main/HomeWork1/hw1_solution.py
+* Полный лог обучения - https://github.com/BondusS/HSE-LLM-course/blob/main/HomeWork1/train_log.txt
 * Краткий лог обучения:
 
 ```
